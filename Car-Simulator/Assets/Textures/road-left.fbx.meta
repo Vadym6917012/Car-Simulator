@@ -8,27 +8,27 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Asphalt-Procedural
-    second: {fileID: 2100000, guid: c625a225c0326b54791ae8c95925a146, type: 2}
+    second: {fileID: 2100000, guid: 49fffaca9454adc489ae2793341f2506, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Concrete water grout
-    second: {fileID: 2100000, guid: 403fc246b77811c4f80434082c87894f, type: 2}
+    second: {fileID: 2100000, guid: 2f6bcd7ce9b984a4489ae2ca650bd6c3, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Road Paintings
-    second: {fileID: 2100000, guid: 9c23b350648c00647a45fbb22829b77a, type: 2}
+    second: {fileID: 2100000, guid: add506f534aee9f4a857e55eb0f97ec5, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Road asphalt
-    second: {fileID: 2100000, guid: fd227a6b5edf8f348bed01b81a15e863, type: 2}
+    second: {fileID: 2100000, guid: fdeeba9bbb056c5439c3a2ea82fbd48d, type: 2}
   - first:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Sidewalk end material
-    second: {fileID: 2100000, guid: 59282b68df9134a4999c5db8f59cbfa0, type: 2}
+    second: {fileID: 2100000, guid: 41384dbdca50e1340befe76e92a0c00b, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
